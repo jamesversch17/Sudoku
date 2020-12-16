@@ -12,4 +12,6 @@ To test, run `make test`.
 
 To run executable in the top level directory (the one this read me is in), run `./sudoku`.
 
+To run GUI, after make, use python3 (or python if not on mac) graphics.py.
+
 Furthur documentation and README.md's are in subdirectories and DESIGN.md, IMPLEMENTATION.md, and TESTING.md in this directory
